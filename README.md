@@ -9,7 +9,7 @@ Veja abaixo uma captura de tela do portfólio em funcionamento:
 <img src="preview_1.png" alt="Preview do Portfólio" width="400px">
 <img src="preview_2.png" alt="Preview do Portfólio" width="400px">
 
-Ou, explore o site em [diamantex-portfolio.com](https://diamantex.github.io/portfolio).
+Ou, explore o site em [diamantex-portfolio.com](https://diamantexdev.github.io/Portf-lio/)
 
 ## 📋 Funcionalidades
 
